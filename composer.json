@@ -1,0 +1,16 @@
+{
+    "name": "dgibadullin/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dgibadullin\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniil Gibadullin",
+            "email": "daniil.gibadullin@mail.ru"
+        }
+    ],
+    "require": {}
+}
