@@ -1,15 +1,11 @@
 # Процессор строк 
 
 Краткое описание проекта 
-
-## Требования 
-
- -PHP 7.4
  
 ## Установка 
 
 ```bash 
-$ composer require frosthim/otus-package
+$ composer require dgibadullin/otus-composer-package
 ```
 ## Использование
 
