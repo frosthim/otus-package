@@ -12,5 +12,7 @@
             "email": "daniil.gibadullin@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
